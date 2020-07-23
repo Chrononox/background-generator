@@ -11,6 +11,7 @@ h1 {
 }
 
 #outputcss {
+    font: sans-serif;
     font-weight: 400;
     font-size: 1.5em;
 }
@@ -32,10 +33,7 @@ h1 {
     border: solid black;
     outline: none;
 }
-/* .btn:hover {
-	/* background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%); */
-	/* background-color:transparent;
-} */
+
 .btn:active {
 	position:relative;
 	top:1px;
