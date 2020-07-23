@@ -4,6 +4,8 @@ var body = document.querySelector("#body")
 var outputCSS = document.querySelector("#outputcss")
 var randButton = document.querySelector("#random")
 
+// startup should choose from pool of pre-made color selections to help prevent "ugly" page load
+
 // ~~ FUNCTIONS ~~ //
 
 // initial run to set up stuff
